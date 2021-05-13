@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirebaseAndroidChat</string>
+    <string name="sendPhoto">Photo Camera</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="select_picture_title">Get Photo From</string>
+    <string name="sendPhotoGallery">Photo Gallery</string>
+    <string name="api_key_google_places">AIzaSyBisbsq9wIW8Q2Isj033c3wXqtTBRyaRBA</string>
+    <string name="sendLocation">Send Location</string>
+    <string name="locationTo">Localização Enviada</string>
+
+
+    <!--string name="default_web_client_id">423944581917-neajt8ko9cf9vc03ej0niso00s0b2ltr.apps.googleusercontent.com</string-->
+</resources>
