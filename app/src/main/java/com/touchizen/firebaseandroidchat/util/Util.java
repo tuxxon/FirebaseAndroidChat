@@ -15,7 +15,7 @@ import java.util.Date;
  */
 public class Util {
 
-    public static final String URL_STORAGE_REFERENCE = "gs://chatmate-a0d4b.appspot.com";
+    public static final String URL_STORAGE_REFERENCE = "gs://xxxxxxxxxx.appspot.com";
     public static final String FOLDER_STORAGE_IMG = "images";
 
     public static void initToast(Context c, String message){
